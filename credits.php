@@ -1,0 +1,4 @@
+<?php
+const TOKEN = "6727897959:AAGqcj3iGDqwNkl3TY9eGH1mNYezBT5";
+const CHAT_ID = "51105029";
+const CHANNEL_ID= "-10020614580";
